@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4237337c-b89b-4ec2-ab38-7ec799db36e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/grand_street_dems.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/analysis/2025-11/2025-11-15_hello_world/2025-11-15_first_data_look.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/analysis/2026-03/2026-03-01_post_mandami_voterfile/2026-03-01_AD65_voter_analysis.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/2026-03-01/VoterData_AssemblyDistrict65.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Voter History Layout .doc" afterDir="false" />
-    </list>
+    <list default="true" id="4237337c-b89b-4ec2-ab38-7ec799db36e8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1763232079573</updated>
       <workItem from="1763232083378" duration="9835000" />
-      <workItem from="1772386668081" duration="2286000" />
+      <workItem from="1772386668081" duration="2589000" />
     </task>
     <servers />
   </component>
