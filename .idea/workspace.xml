@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4237337c-b89b-4ec2-ab38-7ec799db36e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/analysis/2026-03/2026-03-01_post_mandami_voterfile/2026-03-01_update_of_first_data_look.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/2026-03/2026-03-01_post_mandami_voterfile/2026-03-01_update_of_first_data_look.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/analysis/2026-03/2026-03-01_post_mandami_voterfile/2026-03-01_update_of_first_data_look.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1763232079573</updated>
       <workItem from="1763232083378" duration="9835000" />
-      <workItem from="1772386668081" duration="3278000" />
+      <workItem from="1772386668081" duration="4775000" />
     </task>
     <servers />
   </component>
