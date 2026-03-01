@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4237337c-b89b-4ec2-ab38-7ec799db36e8" name="Changes" comment="" />
+    <list default="true" id="4237337c-b89b-4ec2-ab38-7ec799db36e8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/analysis/2026-03/2026-03-01_post_mandami_voterfile/2026-03-01_update_of_first_data_look.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +37,8 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/georgehayward/Hayward Dropbox/George Hayward/Hayward Data Science/GrandStreetDems/data_lab/grand_street_dems/analysis/2026-03/2026-03-01_post_mandami_voterfile",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -45,6 +48,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/analysis/2026-03/2026-03-01_post_mandami_voterfile" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/analysis/2026-03" />
       <recent name="$PROJECT_DIR$/data/2025-11-15" />
@@ -67,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1763232079573</updated>
       <workItem from="1763232083378" duration="9835000" />
-      <workItem from="1772386668081" duration="2589000" />
+      <workItem from="1772386668081" duration="3278000" />
     </task>
     <servers />
   </component>
